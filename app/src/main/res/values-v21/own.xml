@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="owner">
+        <item>Own</item>
+        <item>Rent</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+</resources>

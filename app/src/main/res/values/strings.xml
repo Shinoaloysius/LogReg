@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LogReg</string>
+
+    <string name="register">REGISTRATION</string>
+    <string name="insti_head">INSTITUTION</string>
+    <string name="txt1">Select App Instance</string>
+    <string name="institution">Enter Institution ID</string>
+    <string name="login_email_hint">Retype password</string>
+    <string name="textview1">User Name</string>
+    <string name="textview2">Password</string>
+    <string name="textview4">Select App Instance</string>
+    <string name="textview5">Member Name</string>
+    <string name="textview6">Status</string>
+    <string name="textview7">Remarks/Reason of reject</string>
+    <string name="textview8">Visited Date and Time</string>
+    <string name="textview9">House Geo Location Capture</string>
+    <string name="textview10">House Photo</string>
+    <string name="radio1">LIVE</string>
+    <string name="radio2">UAT</string>
+    <string name="radio3">New Build</string>
+    <string name="radio4">PASS</string>
+    <string name="radio5">FAIL</string>
+    <string name="mpin">Genarate MPIN</string>
+    <string name="gmpin">MPIN</string>
+    <string name="Rmpin">Retype MPIN</string>
+    <string name="textview3">Retype password</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="member">Member</string>
+</resources>
